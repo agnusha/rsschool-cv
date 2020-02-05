@@ -13,7 +13,7 @@ I am a ASP.NET developer having 1+ years of commercial development experience, d
 
 
 ### Skills
-** I own the following technologies: **
+**I own the following technologies:**
 * Server side: ASP.NET MVC, ASP.NET. Core
 * Client side: HTML (HTML5), CSS, JavaScript, jQuery.
 * Languages: C#, PHP, C++, Delphi.
