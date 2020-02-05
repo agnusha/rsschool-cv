@@ -21,6 +21,29 @@ I am a ASP.NET developer having 1+ years of commercial development experience, d
 * Tools: MS SMS, MySQL, Git, Open Server, VS‌ ‌Code,‌ ‌Sublime‌ ‌Text‌ ‌3,‌ ‌Photoshop,‌ TFS, Jira, Figma. ‌
 * Bootstrap 3/4, Material UI.
 
+### Code examples
+[Layout of web-site to reserve a boat](https://agnia2000.000webhostapp.com/maket.html)
+
+[Rental accounting web application](http://azneman.net/)
+
+
+### Experience
+**QA Engineer**  
+June 2018 - Nov 2018  
+*Caspel LLC*
+
+
+**ASP.NET Developer**  
+Nov 2018 - Present  
+*Caspel LLC*
+
+
+**Responsibilities included:**
+* bug fixes;
+* adding new functional modules;
+* changing business logic in accordance with customer requirements;
+* creation of new web applications.
+
 
 ### Education
 **Secondary special education**
