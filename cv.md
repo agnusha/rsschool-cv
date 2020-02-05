@@ -1,10 +1,10 @@
-# Junior Developer Resume
+﻿# Junior Developer Resume
 
 ## Starovojtova Agnia
 
 
 ### Contact Info
-*E-mail* agnia2000@mail.ru
+*E-mail* agnia2000@mail.ru  
 *Phone* +375-29-319-48-96
 
 
@@ -46,18 +46,16 @@ Nov 2018 - Present
 
 
 ### Education
-**Secondary special education**
-BSUIR Minsk College of Radio Engineering
-*2015 - 2019*
+**Secondary special education**  
+BSUIR Minsk College of Radio Engineering  
+*2015 - 2019*  
 
-**Higher incomplete education**
-Belarusian State University of Informatics and Radioelectronics
+**Higher incomplete education**  
+Belarusian State University of Informatics and Radioelectronics  
 *2019-2023*
+
 *Specialty*: Information Technology Software
 
 
 ### English 
 My English level is upper-intermediate (B2).  I finished courses called "English Papa" a year ago. Also, while studying at college, I separately studied technical terms in English in the subject "Professional Vocabulary".
-
-
-        
